@@ -1,12 +1,7 @@
+from game import start
 
-
-
-
-
-def main():
-    pass
 
 
 
 if __name__ == "__main__":
-    main()
+    start()
