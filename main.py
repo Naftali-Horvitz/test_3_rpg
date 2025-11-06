@@ -3,5 +3,10 @@ from game import start
 
 
 
-if __name__ == "__main__":
+def main():
     start()
+
+
+
+if __name__ == "__main__":
+    main()
